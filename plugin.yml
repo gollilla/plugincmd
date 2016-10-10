@@ -1,0 +1,10 @@
+﻿name: plugincmd
+main: plugincmd\plugincmd
+version: 1.0.0
+api: [1.11.0]
+load: POSTWORLD
+author: soradore 
+description: cmd option
+commands:
+ cmds:
+  description: "pluginごとのコマンド一覧"
